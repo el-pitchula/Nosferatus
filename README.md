@@ -10,6 +10,10 @@
   <p></p>
 </div>
 
+<div align="center">
+  <strong> vídeo de apresentação do projeto </strong>
+</div>
+
 ## 📖 Index
 
 - [Overview](#overview)
@@ -24,7 +28,7 @@ falar sobre a ideia do site (link de acesso ao site).
 ## 💻 Technologies
 
 - Python (.py)
-- JavaScrip (.js)
+- JavaScript (.js)
 
 [![Tec](https://skillicons.dev/icons?i=py,js)](https://skillicons.dev)
 
