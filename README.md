@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <strong> vídeo de apresentação do projeto </strong>
+  <strong> (vídeo de apresentação do projeto) </strong>
 </div>
 
 ## 📖 Index
