@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <strong> add descrição (resumo do projeto) </strong>
+  <strong> add descrição com breve resumo do projeto (traduzir tudo pro inglês e criar repositórios necessarios (games, sci...)) </strong>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 ## 🔭 Overview
 
-falar como o site funciona (link de acesso e YT).
+falar sobre a ideia do site (link de acesso ao site).
 
 ## 💻 Technologies
 
@@ -32,14 +32,12 @@ falar como o site funciona (link de acesso e YT).
 
 Configuração do Ambiente: fornecer instruções claras e detalhadas sobre como configurar o ambiente de desenvolvimento localmente (com imagens):
 
-- Pré-requisitos
-- Instalação de dependências
-- Configuração do banco de dados
+- Tutoriais do youtube
 - Configuração de variáveis de ambiente
 - Execução de migrações ou scripts de inicialização
 - ...
 
-fornecer exemplos de comandos ou scripts necessários para executar o projeto corretamente
+fornecer exemplos de comandos ou scripts como/para templates
 
 ## How to Contribute
 
