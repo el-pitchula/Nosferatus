@@ -26,7 +26,7 @@ falar como o site funciona (link de acesso e YT).
 - Python (.py)
 - JavaScrip (.js)
 
-[![Tec](https://skillicons.dev/icons?i=py,js,jupyter)](https://skillicons.dev)
+[![Tec](https://skillicons.dev/icons?i=py,js)](https://skillicons.dev)
 
 ## ⚙️ Environment Setting
 
