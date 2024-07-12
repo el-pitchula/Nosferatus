@@ -27,6 +27,7 @@ falar sobre a ideia do site (link de acesso ao site).
 
 ## 💻 Technologies
 
+- HTML (.html)
 - Python (.py)
 - JavaScript (.js)
 
