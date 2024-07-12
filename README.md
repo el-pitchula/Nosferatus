@@ -30,7 +30,7 @@ falar sobre a ideia do site (link de acesso ao site).
 - Python (.py)
 - JavaScript (.js)
 
-[![Tec](https://skillicons.dev/icons?i=py,js)](https://skillicons.dev)
+[![Tec](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
 
 ## ⚙️ Environment Setting
 
